@@ -4,11 +4,13 @@ This repository demonstrates my **LaTeX skills** using Overleaf. It contains a s
 
 ## Repository Structure
 
+```bash
 glsl-popart-latex/
  ├── main.tex # Main LaTeX file
  ├── images/ # All figures and graphics
  ├── BA_glsl_popart.pdf # Compiled PDF output
  ├── literatur.bib # Bibliography file
+```
 
 ## Usage
 
